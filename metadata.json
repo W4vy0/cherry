@@ -1,0 +1,6 @@
+{
+  "name": "체리 프로필 폰",
+  "description": "이체리 캐릭터 소개 및 모바일 UI 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
